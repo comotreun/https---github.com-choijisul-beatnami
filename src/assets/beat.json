@@ -1,0 +1,39 @@
+[
+    {
+      "beat_id": 1,
+      "start_time": 0.0,
+      "duration": 1.0,
+      "type": "quarter_note"
+    },
+    {
+      "beat_id": 2,
+      "start_time": 1.0,
+      "duration": 1.0,
+      "type": "quarter_note"
+    },
+    {
+      "beat_id": 3,
+      "start_time": 2.0,
+      "duration": 1.0,
+      "type": "quarter_note"
+    },
+    {
+      "beat_id": 4,
+      "start_time": 3.0,
+      "duration": 1.0,
+      "type": "quarter_note"
+    },
+    {
+      "beat_id": 5,
+      "start_time": 4.0,
+      "duration": 0.5,
+      "type": "eighth_note"
+    },
+    {
+      "beat_id": 6,
+      "start_time": 4.5,
+      "duration": 0.5,
+      "type": "eighth_note"
+    }
+  ]
+  
